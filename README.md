@@ -36,7 +36,7 @@ This project investigates U.S. airfare trends, competition, and regional pricing
 1. **Data Preparation:**  
    Merged multiple datasets from the DOT, removed missing or duplicate values, standardized column names, and filtered out incomplete years (1993–1995).  
 
-2. ** Data Preparation:**  
+2. **Data Preparation:**  
    Added regional classifications based on the U.S. Census Bureau.  
    Categorized airlines as low-cost or traditional.  
    Created calculated metrics for fare volatility, percent change, and competition levels.
